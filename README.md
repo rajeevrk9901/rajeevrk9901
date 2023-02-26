@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**rajeevrk9901/rajeevrk9901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Rajeev Ranjan Kumar 🥳</h1>
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=rajeevrk9901)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently learning and working on NodeJS, ReactJS, MUI and MongoDB
+- 👯 I’m looking to collaborate on **Backend Development** and **MERN Stack**
+- 📫 How to reach me: rajeevrk9901@gmail.com or message me on [whatsapp](https://wa.me/918210787001)
+- ⚡ Fun fact: Hue Hue
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=rajeevrk9901&show_icons=true&theme=radical) -->
+
+![Rajeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeevrk9901&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
+
+![Rajeev's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajeevrk9901&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+![Rajeev's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevrk9901&layout=compact&theme=tokyonight)
