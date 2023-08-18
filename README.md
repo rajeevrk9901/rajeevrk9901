@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=rrk-sde)
 
-- 🔭 I possess a valuable 4 months of experience as a MERN Stack Developer, equipped with hands-on knowledge and skills.
+- 🔭 I possess a valuable 6 months of experience as a MERN Stack Developer, equipped with hands-on knowledge and skills.
 - 👯 I am actively seeking opportunities to collaborate on exciting projects involving Backend Development and MERN Stack technologies.
 - 📫 How to reach me: rajeevrk9901@gmail.com or message me on [whatsapp](https://wa.me/918210787001)
 - ⚡ Fun fact: I enjoy injecting a touch of humor into my work and interactions, bringing a light-hearted atmosphere along the way. Hue Hue!
