@@ -3,39 +3,18 @@
 
 ![](https://komarev.com/ghpvc/?username=rrk-sde)
 
-## 🚀 About Me
+## 🚀 About Me  
+**SDE II at Codebucket Solutions Pvt. Ltd.**, specializing in **Backend Development & MERN Stack**. Passionate about **scalability, clean architecture, and mentoring**.  
 
-I am a **Software Development Engineer II (SDE II) at Codebucket Solutions Private Limited**, specializing in **Backend Development and the MERN Stack**. With hands-on experience in building scalable applications, I have worked on high-profile government projects, complex API integrations, and robust database management.
+## 💼 Experience  
+- **SDE II (May 2024 - Present)**: Leading backend development for a **government project**, handling APIs, databases, and mentoring.  
+- **Associate Software Developer (Sep 2023 - May 2024)**: Led **LMS frontend**, delivered many projects.  
+- **Software Developer Intern (Jan 2023 - Jul 2023)**: Built **Ecom Kisan**, including **RBAC, vendor management, and dashboards**.  
 
-## 💼 Work Experience
+## 📫 Contact  
+📩 **rajeevrk9901@gmail.com** | 💬 [WhatsApp](https://wa.me/918210787001)  
 
-### **Software Development Engineer II (SDE II)**  
-📍 *Codebucket Solutions Private Limited* | *May 2024 - Present* | *Patna, Bihar, India*  
-- Spearheading back-end development for a high-profile government project, managing **server-side logic, database architecture, and API integrations**.  
-- Implementing **scalable data pipelines** and **RESTful APIs** for seamless data exchange.  
-- Mentoring junior developers, conducting **code reviews**, and ensuring best development practices.
-
-### **Associate Software Developer**  
-📍 *Codebucket Solutions Private Limited* | *Sep 2023 - May 2024* | *Patna, Bihar, India*  
-- Led the **front-end development** for a Learning Management System (**LMS**) client project, managing UI/UX design independently.  
-- Delivered **2-3 projects**, including *Xley* and *CU Fest*, focusing on seamless front-end integration.
-
-### **Software Developer Intern**  
-📍 *Codebucket Solutions Private Limited* | *Jan 2023 - Jul 2023* | *Patna, Bihar, India*  
-- Successfully implemented **Ecom Kisan**, featuring **Admin, User, and Card Dashboards**, Vendor Management, **Ecommerce functionality**, and **RBAC (Role-Based Access Control)**.  
-- Designed complex **business logic** and optimized **database structures** using **Node.js, MySQL, and MongoDB**.
-
-## 📌 Collaboration & Interests  
-- 🔍 Looking for opportunities to **collaborate** on **exciting projects** involving **Backend Development and MERN Stack** technologies.  
-- 🎯 Passionate about **scalability, clean architecture, and best coding practices**.  
-- 🛠️ Open to **mentoring and guiding** junior developers.
-
-## 📫 Get in Touch  
-📩 Email: **rajeevrk9901@gmail.com**  
-💬 [WhatsApp](https://wa.me/918210787001)  
-
-## ⚡ Fun Fact  
-I love adding a touch of **humor** to my work, making development **fun and engaging**. Hue Hue! 😄
+⚡ *I bring humor to my work—keeps things fun! Hue Hue! 😄*
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=rajeevrk9901&show_icons=true&theme=radical) -->
